@@ -93,17 +93,7 @@ Outputs land in `results/<TARGET>-<TIMESTAMP>/`.
 
 ## 🖼 Demo
 
-![demo-gif](.assets/demo.gif)
-
----
-
-## 🤝 Contributing
-
-PRs are welcome!  
-
-1. Fork → create feature branch → commit → open PR.  
-2. Please run `shellcheck reconx.sh` before pushing.  
-3. For bigger changes, open an issue first to discuss what you want to change.
+![demo-image](./reconx.png)
 
 ---
 
